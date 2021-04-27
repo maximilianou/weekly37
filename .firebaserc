@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "trainning-2021"
+    "default": "trainning-2021",
+    "trainning-2021": "trainning-2021"
   }
 }
